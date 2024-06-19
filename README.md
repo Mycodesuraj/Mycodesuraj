@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/imgres?q=blogspot.com%20banner%20image%20web%20development&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FC5112AQFMNtd2l7OZeQ%2Farticle-cover_image-shrink_720_1280%2F0%2F1535306218070%3Fe%3D2147483647%26v%3Dbeta%26t%3D-B_12QhySUsTPVZ2M2PBBuAky4vay7LzSig0VoSVXWk&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fweb-development-blog-faraz-khan&docid=Fclwfcat8nFQaM&tbnid=OyEQtkhbQ1chmM&vet=12ahUKEwjN5aLBwOiGAxVNe2wGHWX7D8AQM3oECCIQAA..i&w=1280&h=654&hcb=2&itg=1&ved=2ahUKEwjN5aLBwOiGAxVNe2wGHWX7D8AQM3oECCIQAA(https://suraj.io)
 <h1 align="center">Hi 👋, I'm SURAJ YADAV</h1>
 <h3 align="center">A passionate BACKEND Developer from India</h3>
 <img align="right" alt="coding" width="400" scr="https://gifdb.com/gif/animated-chock-coding-c78f6elj32sfoi8q.html#google_vignette">
