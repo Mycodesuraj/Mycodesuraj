@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SURAJ YADAV</h1>
-<h3 align="center">A passionate BACKEND Developer from India</h3>
+<h3 align="center">A Passionate BACKEND Developer </h3>
 <img align="right" alt="coding" width="400" scr="https://gifdb.com/gif/animated-chock-coding-c78f6elj32sfoi8q.html#google_vignette">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mycodesuraj&label=Profile%20views&color=0e75b6&style=flat" alt="mycodesuraj" /> </p>
